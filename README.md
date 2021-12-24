@@ -7,5 +7,5 @@ The repository contains a `.idea/` folder which is a [IntelliJ IDEA](https://www
 
 ## Videos
 
-Part 1: https://www.youtube.com/watch?v=w2F67LbEtnk
-Part 2: https://www.youtube.com/watch?v=iI9Dz3zN4d8
+* Part 1: https://www.youtube.com/watch?v=w2F67LbEtnk
+* Part 2: https://www.youtube.com/watch?v=iI9Dz3zN4d8
